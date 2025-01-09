@@ -12,6 +12,7 @@
       "minecraft:beach": "2025-01-09 14:22:27 +0000",
       "minecraft:river": "2025-01-09 15:24:43 +0000",
       "minecraft:cold_ocean": "2025-01-09 15:41:30 +0000",
+      "minecraft:lush_caves": "2025-01-09 15:45:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-09 15:41:49 +0000"
     },
     "done": false
@@ -6978,7 +6979,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-01-09 15:29:44 +0000"
+      "minecraft:skeleton": "2025-01-09 15:49:45 +0000",
+      "minecraft:spider": "2025-01-09 15:45:27 +0000",
+      "minecraft:creeper": "2025-01-09 15:45:48 +0000",
+      "minecraft:stray": "2025-01-09 15:45:59 +0000",
+      "minecraft:zombie": "2025-01-09 15:29:44 +0000",
+      "minecraft:drowned": "2025-01-09 15:50:03 +0000"
     },
     "done": false
   },
@@ -7033,6 +7039,600 @@
   "doggytalents:recipes/tools/conducting_bone": {
     "criteria": {
       "has_bone": "2025-01-09 15:35:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-01-09 15:54:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-09 15:51:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-09 15:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-09 15:54:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "cuisinedelight:recipes/misc/plate_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-09 15:47:00 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-09 15:47:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:cika_woods": "2025-01-09 15:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-09 15:54:39 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:cika_woods": "2025-01-09 15:46:06 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/wallet_crafting": {
+    "criteria": {
+      "wallet": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_spruce": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-09 15:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-09 15:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-09 15:46:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-01-09 15:46:53 +0000"
     },
     "done": true
   },
