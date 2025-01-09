@@ -1,0 +1,8 @@
+{
+  "id": "proc_spell_cyclone",
+  "pos": "CASTER",
+  "ser": "proc_spell",
+  "spellId": "cyclone",
+  "source": "Target",
+  "target": "Source"
+}

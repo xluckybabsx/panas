@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "b74d3848-dac2-3ba7-ae3c-272e70b4e463",
+    "displayName": {
+      "insertion": "Luckybabs",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Luckybabs "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "b74d3848-dac2-3ba7-ae3c-272e70b4e463",
+          "name": {
+            "text": "Luckybabs"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Luckybabs"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "hidden"
+  }
+]

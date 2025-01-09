@@ -1,0 +1,15 @@
+{
+  "all_drop_multi": 1.0,
+  "dimension_id": "twilightforest:twilight_forest",
+  "exp_multi": 1.0,
+  "max_lvl": 100,
+  "min_lvl": 90,
+  "mob_lvl_per_distance": 100,
+  "mob_strength_multi": 1.6,
+  "mob_tier": 3,
+  "scale_to_nearest_player": true,
+  "min_lvl_area": 100,
+  "stats": {
+    "stats": []
+  }
+}

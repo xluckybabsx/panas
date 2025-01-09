@@ -1,0 +1,17 @@
+{
+	id: "b74d3848-dac2-3ba7-ae3c-272e70b4e463"
+	type: "player"
+	player_name: "Luckybabs"
+	ranks: {
+		b74d3848-dac2-3ba7-ae3c-272e70b4e463: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Luckybabs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

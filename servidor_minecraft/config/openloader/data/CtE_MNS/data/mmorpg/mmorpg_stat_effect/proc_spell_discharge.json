@@ -1,0 +1,8 @@
+{
+  "id": "proc_spell_discharge",
+  "pos": "TARGET",
+  "ser": "proc_spell",
+  "spellId": "discharge",
+  "source": "Source",
+  "target": "Target"
+}

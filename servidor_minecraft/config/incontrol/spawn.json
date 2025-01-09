@@ -1,0 +1,8 @@
+[
+  {
+    "dimension": "minecraft:overworld",
+    "mob": ["born_in_chaos_v1:lifestealer", "born_in_chaos_v1:lifestealer_true_form", "born_in_chaos_v1:nightmare_stalker", "born_in_chaos_v1:supreme_bonescaller"],
+    "when": "onjoin",
+    "result": "deny"
+  }
+]

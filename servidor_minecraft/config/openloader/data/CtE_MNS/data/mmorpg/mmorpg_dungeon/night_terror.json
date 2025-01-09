@@ -1,0 +1,47 @@
+{
+  "can_be_main": true,
+  "curved_hallways": [
+    "abandoned",
+    "cemetary",
+    "escape",
+    "witch_hut"
+  ],
+  "ends": [
+    "cauldron",
+    "crop_circle",
+    "dracula",
+    "skull"
+  ],
+  "entrances": [
+    "pump_spawn"
+  ],
+  "four_ways": [
+    "barn",
+    "portal",
+    "pumpkin",
+    "spider"
+  ],
+  "id": "night_terror",
+  "name": "Night Terror",
+  "other_tileset": [],
+  "other_tileset_chance": 5.0,
+  "straight_hallways": [
+    "crimson_rose",
+    "door_maze",
+    "festival",
+    "spider_cave"
+  ],
+  "tags": {
+    "tags": [
+      "otherworldly",
+	  "forest"
+    ]
+  },
+  "triple_hallway": [
+    "forest",
+    "gas_station",
+    "library",
+    "neighborhood"
+  ],
+  "weight": 2000
+}

@@ -1,0 +1,23 @@
+{
+  "affected": "Mobs",
+  "id": "crit",
+  "map_resist": "Physical",
+  "map_resist_bonus_needed": 0,
+  "prophecy_type": "",
+  "req": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 30.0,
+      "min": 10.0,
+      "stat": "critical_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 60.0,
+      "min": 20.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "weight": 1000
+}

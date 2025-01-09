@@ -1,0 +1,21 @@
+{
+  "type": "suffix",
+  "format": "RED",
+  "icon": "",
+  "id": "fire_mob_affix",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 100.0,
+      "min": 100.0,
+      "stat": "phys_to_fire"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 15.0,
+      "stat": "all_fire_damage"
+    }
+  ],
+  "weight": 1000
+}

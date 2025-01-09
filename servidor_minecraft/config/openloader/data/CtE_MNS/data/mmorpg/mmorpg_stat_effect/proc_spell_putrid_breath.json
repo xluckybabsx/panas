@@ -1,0 +1,8 @@
+{
+  "id": "proc_spell_putrid_breath",
+  "pos": "CASTER",
+  "ser": "proc_spell",
+  "spellId": "putrid_breath",
+  "source": "Source",
+  "target": "Target"
+}

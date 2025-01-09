@@ -1,0 +1,8 @@
+{
+  "id": "proc_spell_cinder",
+  "pos": "TARGET",
+  "ser": "proc_spell",
+  "spellId": "cinder",
+  "source": "Source",
+  "target": "Target"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "proc_spell_lightning_bolt",
+  "pos": "TARGET",
+  "ser": "proc_spell",
+  "spellId": "lightning_bolt",
+  "source": "Source",
+  "target": "Target"
+}
